@@ -79,7 +79,7 @@ flowchart TD
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/caesar-cipher.git
+   git clone https://github.com/djay321/caesar-cipher.git
    ```
 2. Navigate into the project folder:
 
