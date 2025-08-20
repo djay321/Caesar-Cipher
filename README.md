@@ -149,7 +149,7 @@ Contributions are always welcome! Feel free to fork this repo and submit a PR.
 ## 🏅 Author
 
 👤 **Jaynur**
-🎓 Physics Student | 💻 Aspiring Cybersecurity Expert | ⚔️ Future Infantry Officer | 🌱 Lifelong Learner
+🎓 Physics Student | 💻 Aspiring Data Scientist | 🌱 Lifelong Learner
 
 ---
 
