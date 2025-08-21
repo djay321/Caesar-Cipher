@@ -34,11 +34,12 @@ It’s simple, effective, and runs in a **loop** so you can keep encrypting/decr
 ---
 
 ## ✨ Features
-- 🔑 Encrypt text with a custom shift.  
-- 🔓 Decrypt encrypted text easily.  
-- 🔁 Runs in a loop until you type `exit`.  
-- 📝 Keeps spaces, numbers, and special characters unchanged.  
-- 🖥️ Interactive CLI interface with clean output.  
+- 🔑 **Customizable Encryption** – Encode messages with any shift value you choose.
+- 🔓 **Instant Decryption** – Decode messages back using the same shift value.
+- 🔁 **Continuous Run** – Perform multiple encryptions and decryptions without restarting the program.
+- 📝 **Smart Handling of Characters** – Spaces, numbers, and special characters remain unchanged.
+- 🔡 **Case-insensitive Input** – Works seamlessly with lowercase input (future support for uppercase planned).
+- 🖥️ **User-Friendly CLI** – Clean prompts and output for easy interaction. 
 
 ---
 
@@ -59,16 +60,6 @@ flowchart TD
     J --> K[Display Result]
     K --> A
 ```
-
----
-
-## ✨ Features
-- 🔑 **Customizable Encryption** – Encode messages with any shift value you choose.
-- 🔓 **Instant Decryption** – Decode messages back using the same shift value.
-- 🔁 **Continuous Run** – Perform multiple encryptions and decryptions without restarting the program.
-- 📝 **Smart Handling of Characters** – Spaces, numbers, and special characters remain unchanged.
-- 🔡 **Case-insensitive Input** – Works seamlessly with lowercase input (future support for uppercase planned).
-- 🖥️ **User-Friendly CLI** – Clean prompts and output for easy interaction.
 
 ---
 
